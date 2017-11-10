@@ -1,0 +1,4 @@
+EURUSD1_1 es el archivo principal.
+EURUSD1_2 el archivo secundario que uso para rellenar los huecos que hay en el primero.
+
+EURUSD1_3 si aun queda nhuecos uso este pra rellenar.
